@@ -2,8 +2,6 @@
 
 A glowing QR code generator made with React+Tailwind+Vite
 
-##..How to run
-'''bash
-npm install
-npm run dev
-....
+#Project Link
+https://qr-code-gener-ate.netlify.app/
+###
